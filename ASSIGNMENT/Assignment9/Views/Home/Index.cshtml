@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Employee Management System</h1>
+
+</div>
+
+<div>
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>EMPID</th>
+            <th>EMPNAME</th>
+            <th>DEPARTMENT</th>
+            <th>SALARY</th>
+            <th>EMAIL</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.EmpId</td>
+                <td>@item.EmpName</td>
+                <td>@item.Department</td>
+                <td>@item.Salary</td>
+                <td>@item.Email</td>
+            </tr>
+        }
+    </table>
+</div>
