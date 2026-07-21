@@ -1,0 +1,35 @@
+﻿@model ShopEase.Models.Payment
+
+<h2>Payment</h2>
+
+<form asp-action="Pay" method="post">
+
+    <label>Payment Id</label>
+    <input asp-for="PaymentId" class="form-control" />
+
+    <label>Amount</label>
+    <input asp-for="Amount" class="form-control" />
+
+    <label>Payment Mode</label>
+
+    <select asp-for="PaymentMode" class="form-control">
+
+        <option>Credit Card</option>
+
+        <option>Debit Card</option>
+
+        <option>UPI</option>
+
+        <option>Cash On Delivery</option>
+
+    </select>
+
+    <br />
+
+    <button class="btn btn-success">
+
+        Pay Now
+
+    </button>
+
+</form>

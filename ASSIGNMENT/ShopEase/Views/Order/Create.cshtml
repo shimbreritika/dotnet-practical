@@ -1,0 +1,43 @@
+﻿@model ShopEase.Models.Order
+
+<h2>Place Order</h2>
+
+<form asp-action="Create" method="post">
+
+    <label>Order Id</label>
+
+    <input asp-for="OrderId" class="form-control" />
+
+    <label>Customer Name</label>
+
+    <input asp-for="CustomerName" class="form-control" />
+
+    <label>Order Date</label>
+
+    <input asp-for="OrderDate" type="date" class="form-control" />
+
+    <label>Total</label>
+
+    <input asp-for="Total" class="form-control" />
+
+    <label>GST</label>
+
+    <input asp-for="GST" class="form-control" />
+
+    <label>Discount</label>
+
+    <input asp-for="Discount" class="form-control" />
+
+    <label>Grand Total</label>
+
+    <input asp-for="GrandTotal" class="form-control" />
+
+    <br />
+
+    <button class="btn btn-success">
+
+        Place Order
+
+    </button>
+
+</form>

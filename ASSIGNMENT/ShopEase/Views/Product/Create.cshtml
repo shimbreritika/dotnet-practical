@@ -1,0 +1,40 @@
+﻿@model ShopEase.Models.Product
+
+<h2>Add Product</h2>
+
+<form asp-action="Create" method="post">
+
+    <label>Product Id</label>
+    <input asp-for="ProductId" class="form-control" />
+
+    <label>Name</label>
+    <input asp-for="Name" class="form-control" />
+
+    <label>Category</label>
+    <input asp-for="Category" class="form-control" />
+
+    <label>Description</label>
+    <input asp-for="Description" class="form-control" />
+
+    <label>Price</label>
+    <input asp-for="Price" class="form-control" />
+
+    <label>Quantity</label>
+    <input asp-for="Quantity" class="form-control" />
+
+    <label>Brand</label>
+    <input asp-for="Brand" class="form-control" />
+
+    <label>Discount</label>
+    <input asp-for="Discount" class="form-control" />
+
+    <label>Rating</label>
+    <input asp-for="Rating" class="form-control" />
+
+    <br />
+
+    <button class="btn btn-success">Save</button>
+
+    <a asp-action="Index" class="btn btn-secondary">Back</a>
+
+</form>

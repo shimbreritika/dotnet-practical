@@ -1,0 +1,25 @@
+﻿@model List<ShopEase.Models.Category>
+
+<h2>Category List</h2>
+
+<a asp-action="Create" class="btn btn-primary">Add Category</a>
+
+<table class="table table-bordered mt-3">
+
+    <tr>
+        <th>Id</th>
+        <th>Category Name</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>@item.CategoryId</td>
+
+            <td>@item.CategoryName</td>
+
+        </tr>
+    }
+
+</table>
