@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "Assignment16.Controllers.AutomobileController",
+    "Method": "getAutomobile",
+    "RelativePath": "Automobile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Assignment16.Controllers.AutomobileController",
+    "Method": "Post",
+    "RelativePath": "Automobile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "automobile",
+        "Type": "Assignment16.Model.Automobile",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Assignment16.Controllers.AutomobileController",
+    "Method": "Update",
+    "RelativePath": "Automobile/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "automobile",
+        "Type": "Assignment16.Model.Automobile",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Assignment16.Controllers.AutomobileController",
+    "Method": "Delete",
+    "RelativePath": "Automobile/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Assignment16.Controllers.AutomobileController",
+    "Method": "GetById",
+    "RelativePath": "Automobile/id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Assignment16.Controllers.AutomobileController",
+    "Method": "GetByName",
+    "RelativePath": "Automobile/name/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
