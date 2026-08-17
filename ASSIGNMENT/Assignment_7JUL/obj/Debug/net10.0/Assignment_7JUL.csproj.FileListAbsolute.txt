@@ -1,0 +1,14 @@
+C:\Users\shimb\OneDrive\ASSIGNMENT\Assignment_7JUL\obj\Debug\net10.0\Assignment_7JUL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shimb\OneDrive\ASSIGNMENT\Assignment_7JUL\obj\Debug\net10.0\Assignment_7JUL.AssemblyInfoInputs.cache
+C:\Users\shimb\OneDrive\ASSIGNMENT\Assignment_7JUL\obj\Debug\net10.0\Assignment_7JUL.AssemblyInfo.cs
+C:\Users\shimb\OneDrive\ASSIGNMENT\Assignment_7JUL\obj\Debug\net10.0\Assignment_7JUL.csproj.CoreCompileInputs.cache
+C:\Users\shimb\OneDrive\ASSIGNMENT\Assignment_7JUL\bin\Debug\net10.0\Assignment_7JUL.exe
+C:\Users\shimb\OneDrive\ASSIGNMENT\Assignment_7JUL\bin\Debug\net10.0\Assignment_7JUL.deps.json
+C:\Users\shimb\OneDrive\ASSIGNMENT\Assignment_7JUL\bin\Debug\net10.0\Assignment_7JUL.runtimeconfig.json
+C:\Users\shimb\OneDrive\ASSIGNMENT\Assignment_7JUL\bin\Debug\net10.0\Assignment_7JUL.dll
+C:\Users\shimb\OneDrive\ASSIGNMENT\Assignment_7JUL\bin\Debug\net10.0\Assignment_7JUL.pdb
+C:\Users\shimb\OneDrive\ASSIGNMENT\Assignment_7JUL\obj\Debug\net10.0\Assignment_7JUL.dll
+C:\Users\shimb\OneDrive\ASSIGNMENT\Assignment_7JUL\obj\Debug\net10.0\refint\Assignment_7JUL.dll
+C:\Users\shimb\OneDrive\ASSIGNMENT\Assignment_7JUL\obj\Debug\net10.0\Assignment_7JUL.pdb
+C:\Users\shimb\OneDrive\ASSIGNMENT\Assignment_7JUL\obj\Debug\net10.0\Assignment_7JUL.genruntimeconfig.cache
+C:\Users\shimb\OneDrive\ASSIGNMENT\Assignment_7JUL\obj\Debug\net10.0\ref\Assignment_7JUL.dll
