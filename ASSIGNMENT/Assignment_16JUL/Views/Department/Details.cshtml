@@ -1,0 +1,55 @@
+﻿@model List<Assignment_16JUL.Models.Department>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Department Management System</title>
+
+    <style>
+            table {
+                width: 80%;
+                border-collapse: collapse;
+                margin: 20px auto;
+            }
+
+            th, td {
+                border: 1px solid black;
+                padding: 10px;
+                text-align: center;
+            }
+
+            th {
+                background-color: lightgreen;
+            }
+
+            h1 {
+                text-align: center;
+            }
+    </style>
+</head>
+
+<body>
+
+    <h1>Department Management System</h1>
+
+    <table>
+        <tr>
+            <th>Department Name</th>
+            <th>Department Head</th>
+            <th>Head Contact</th>
+            <th>Head Email</th>
+        </tr>
+
+        @foreach (var department in Model)
+        {
+            <tr>
+                <td>@department.Name</td>
+                <td>@department.DepartmentHead</td>
+                <td>@department.HeadContact</td>
+                <td>@department.HeadEmail</td>
+            </tr>
+        }
+    </table>
+
+</body>
+</html>

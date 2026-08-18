@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment_16JUL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B55478-4210-1420-53C3-D1FB35D5B7E0}|Assignment_16JUL.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment_16jul\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B55478-4210-1420-53C3-D1FB35D5B7E0}|Assignment_16JUL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B55478-4210-1420-53C3-D1FB35D5B7E0}|Assignment_16JUL.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment_16jul\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6B55478-4210-1420-53C3-D1FB35D5B7E0}|Assignment_16JUL.csproj|solutionrelative:views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B55478-4210-1420-53C3-D1FB35D5B7E0}|Assignment_16JUL.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment_16jul\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6B55478-4210-1420-53C3-D1FB35D5B7E0}|Assignment_16JUL.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B55478-4210-1420-53C3-D1FB35D5B7E0}|Assignment_16JUL.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment_16jul\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B55478-4210-1420-53C3-D1FB35D5B7E0}|Assignment_16JUL.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B55478-4210-1420-53C3-D1FB35D5B7E0}|Assignment_16JUL.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment_16jul\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B55478-4210-1420-53C3-D1FB35D5B7E0}|Assignment_16JUL.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B55478-4210-1420-53C3-D1FB35D5B7E0}|Assignment_16JUL.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment_16jul\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B55478-4210-1420-53C3-D1FB35D5B7E0}|Assignment_16JUL.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment_16JUL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment_16JUL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T19:43:30.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment_16JUL\\Views\\Department\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Department\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment_16JUL\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "Views\\Department\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-16T19:42:29.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment_16JUL\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment_16JUL\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAEwCsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-16T19:39:51.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment_16JUL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment_16JUL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T19:32:56.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment_16JUL\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment_16JUL\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T19:30:54.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment_16JUL\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment_16JUL\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T19:30:17.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

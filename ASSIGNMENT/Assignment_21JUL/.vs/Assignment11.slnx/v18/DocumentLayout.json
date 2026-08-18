@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9E6FB2-6105-71EB-A888-DAB8B14EBD37}|Assignment11.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment11\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9E6FB2-6105-71EB-A888-DAB8B14EBD37}|Assignment11.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9E6FB2-6105-71EB-A888-DAB8B14EBD37}|Assignment11.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment11\\views\\employee\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E9E6FB2-6105-71EB-A888-DAB8B14EBD37}|Assignment11.csproj|solutionrelative:views\\employee\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9E6FB2-6105-71EB-A888-DAB8B14EBD37}|Assignment11.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment11\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9E6FB2-6105-71EB-A888-DAB8B14EBD37}|Assignment11.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9E6FB2-6105-71EB-A888-DAB8B14EBD37}|Assignment11.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment11\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9E6FB2-6105-71EB-A888-DAB8B14EBD37}|Assignment11.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9E6FB2-6105-71EB-A888-DAB8B14EBD37}|Assignment11.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9E6FB2-6105-71EB-A888-DAB8B14EBD37}|Assignment11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment11\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment11\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T15:09:19.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment11\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment11\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T15:09:03.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment11\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment11\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T15:08:59.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment11\\Views\\Employee\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Register.cshtml",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment11\\Views\\Employee\\Register.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Register.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-22T15:08:08.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment11\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment11\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T15:04:40.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

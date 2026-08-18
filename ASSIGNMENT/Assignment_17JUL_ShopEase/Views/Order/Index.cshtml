@@ -1,0 +1,48 @@
+﻿@model List<ShopEase.Models.Order>
+
+<h2>Order History</h2>
+
+<a asp-action="Create" class="btn btn-primary">
+
+    Place Order
+
+</a>
+
+<table class="table table-bordered mt-3">
+
+    <tr>
+
+        <th>Order Id</th>
+
+        <th>Customer</th>
+
+        <th>Date</th>
+
+        <th>Total</th>
+
+        <th>GST</th>
+
+        <th>Grand Total</th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>@item.OrderId</td>
+
+            <td>@item.CustomerName</td>
+
+            <td>@item.OrderDate</td>
+
+            <td>@item.Total</td>
+
+            <td>@item.GST</td>
+
+            <td>@item.GrandTotal</td>
+
+        </tr>
+    }
+
+</table>
