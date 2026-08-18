@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Assignment_10AUG.Controllers.AutomobileController",
+    "Method": "CreateAutomobile",
+    "RelativePath": "api/Automobile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "automobile",
+        "Type": "Assignment_10AUG.Model.Automobile",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Assignment_10AUG.Controllers.AutomobileController",
+    "Method": "GetAutomobiles",
+    "RelativePath": "api/Automobile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Assignment_10AUG.Controllers.AutomobileController",
+    "Method": "GetAutomobileById",
+    "RelativePath": "api/Automobile/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

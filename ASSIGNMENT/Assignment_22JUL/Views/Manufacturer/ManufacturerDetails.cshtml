@@ -1,0 +1,47 @@
+﻿@model Assignment12.Models.Manufacturer
+
+@{
+    ViewData["Title"] = "Manufacturer Information";
+}
+
+<h2 class="text-success">
+    Manufacturer Information
+</h2>
+
+<hr />
+
+<h4>
+    Registered Vehicle :
+    <b>@TempData["VehicleName"]</b>
+</h4>
+
+<h4>
+    Brand :
+    <b>@TempData["Brand"]</b>
+</h4>
+
+<br />
+
+<table class="table table-bordered table-striped">
+
+    <tr>
+        <th>Manufacturer Name</th>
+        <td>@Model.ManufacturerName</td>
+    </tr>
+
+    <tr>
+        <th>Country</th>
+        <td>@Model.Country</td>
+    </tr>
+
+    <tr>
+        <th>Contact Number</th>
+        <td>@Model.ContactNo</td>
+    </tr>
+
+    <tr>
+        <th>Email Address</th>
+        <td>@Model.EmailAddr</td>
+    </tr>
+
+</table>

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5012A3D2-3EB9-223C-202F-3A7A14B61966}|Assignment16.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment16\\service\\iautomobileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5012A3D2-3EB9-223C-202F-3A7A14B61966}|Assignment16.csproj|solutionrelative:service\\iautomobileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5012A3D2-3EB9-223C-202F-3A7A14B61966}|Assignment16.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment16\\service\\automobileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5012A3D2-3EB9-223C-202F-3A7A14B61966}|Assignment16.csproj|solutionrelative:service\\automobileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5012A3D2-3EB9-223C-202F-3A7A14B61966}|Assignment16.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5012A3D2-3EB9-223C-202F-3A7A14B61966}|Assignment16.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment16\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment16\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T16:57:20.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutomobileService.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment16\\Service\\AutomobileService.cs",
+              "RelativeDocumentMoniker": "Service\\AutomobileService.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment16\\Service\\AutomobileService.cs",
+              "RelativeToolTip": "Service\\AutomobileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T16:47:14.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAutomobileService.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment16\\Service\\IAutomobileService.cs",
+              "RelativeDocumentMoniker": "Service\\IAutomobileService.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment16\\Service\\IAutomobileService.cs",
+              "RelativeToolTip": "Service\\IAutomobileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T13:38:50.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

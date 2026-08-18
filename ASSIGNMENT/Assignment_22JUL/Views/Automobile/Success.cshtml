@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Success";
+}
+
+<h2 class="text-success">
+    Automobile Registered Successfully
+</h2>
+
+<hr />
+
+<h4>
+    Vehicle Name :
+    <b>@TempData["VehicleName"]</b>
+</h4>
+
+<h4>
+    Brand :
+    <b>@TempData["Brand"]</b>
+</h4>
+
+<br />
+
+<a asp-controller="Manufacturer"
+   asp-action="Details"
+   class="btn btn-success">
+    Enter Manufacturer Details
+</a>

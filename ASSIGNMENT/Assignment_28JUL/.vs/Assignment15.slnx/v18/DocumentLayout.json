@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B873257-4FEB-EB56-896D-78454E18598A}|Assignment15.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment15\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B873257-4FEB-EB56-896D-78454E18598A}|Assignment15.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B873257-4FEB-EB56-896D-78454E18598A}|Assignment15.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment15\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B873257-4FEB-EB56-896D-78454E18598A}|Assignment15.csproj|solutionrelative:model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B873257-4FEB-EB56-896D-78454E18598A}|Assignment15.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment15\\service\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B873257-4FEB-EB56-896D-78454E18598A}|Assignment15.csproj|solutionrelative:service\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B873257-4FEB-EB56-896D-78454E18598A}|Assignment15.csproj|c:\\users\\shimb\\onedrive\\assignment\\assignment15\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B873257-4FEB-EB56-896D-78454E18598A}|Assignment15.csproj|solutionrelative:service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment15\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment15\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:30:43.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment15\\Service\\ICourseService.cs",
+              "RelativeDocumentMoniker": "Service\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment15\\Service\\ICourseService.cs",
+              "RelativeToolTip": "Service\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:10:26.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment15\\Service\\CourseService.cs",
+              "RelativeDocumentMoniker": "Service\\CourseService.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment15\\Service\\CourseService.cs",
+              "RelativeToolTip": "Service\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T12:02:15.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment15\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "Model\\Course.cs",
+              "ToolTip": "C:\\Users\\shimb\\OneDrive\\ASSIGNMENT\\Assignment15\\Model\\Course.cs",
+              "RelativeToolTip": "Model\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T11:51:00.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

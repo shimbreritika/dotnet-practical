@@ -1,0 +1,47 @@
+﻿@model Assignment12.Models.Manufacturer
+
+@{
+    ViewData["Title"] = "Manufacturer Details";
+}
+
+<h2 class="text-center">Manufacturer Details</h2>
+
+<form asp-controller="Manufacturer"
+      asp-action="Details"
+      method="post">
+
+    <div class="mb-3">
+        <label asp-for="ManufacturerName"></label>
+        <input asp-for="ManufacturerName" class="form-control" />
+        <span asp-validation-for="ManufacturerName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Country"></label>
+        <input asp-for="Country" class="form-control" />
+        <span asp-validation-for="Country" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="ContactNo"></label>
+        <input asp-for="ContactNo" class="form-control" />
+        <span asp-validation-for="ContactNo" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="EmailAddr"></label>
+        <input asp-for="EmailAddr" class="form-control" />
+        <span asp-validation-for="EmailAddr" class="text-danger"></span>
+    </div>
+
+    <button class="btn btn-primary">
+        Submit
+    </button>
+
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
