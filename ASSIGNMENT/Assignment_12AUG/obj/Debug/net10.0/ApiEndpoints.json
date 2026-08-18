@@ -1,0 +1,75 @@
+[
+  {
+    "ContainingType": "Assignment_12AUG.Controllers.HotelController",
+    "Method": "GetHotels",
+    "RelativePath": "api/Hotel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Assignment_12AUG.Controllers.HotelController",
+    "Method": "GetRooms",
+    "RelativePath": "api/Hotel/{hotelId}/rooms",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hotelId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Assignment_12AUG.Controllers.HotelController",
+    "Method": "BookRooms",
+    "RelativePath": "api/Hotel/book",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "roomIds",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      },
+      {
+        "Name": "checkIn",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "checkOut",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Assignment_12AUG.Controllers.HotelController",
+    "Method": "GetCustomerBookings",
+    "RelativePath": "api/Hotel/customer/{customerId}/bookings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
